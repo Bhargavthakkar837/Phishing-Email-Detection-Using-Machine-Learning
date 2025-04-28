@@ -15,6 +15,13 @@ This project builds an end-to-end machine learning pipeline to detect phishing e
 - [Contact](#contact)
 
 ---
+## 📥 Dataset Source
+
+The phishing email datasets used in this project are publicly available on Figshare:
+
+🔗 [Download Dataset (Seven Phishing Email Datasets)](https://figshare.com/articles/dataset/Seven_Phishing_Email_Datasets/25432108)
+
+The combined dataset includes emails from multiple sources like CEAS, Enron, TREC, Nigerian fraud, and others.
 
 ## 📋 Project Description
 
